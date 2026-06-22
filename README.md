@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0162-find-peak-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
