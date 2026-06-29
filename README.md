@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0410-split-array-largest-sum) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
