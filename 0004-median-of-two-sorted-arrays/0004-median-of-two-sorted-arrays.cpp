@@ -2,6 +2,7 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         /* TC ----> O(N)
+           SC -----
         vector<int> nums3;
         int i = 0; int j = 0;
         int n1 = nums1.size();
