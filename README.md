@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0268-missing-number) |
 ## Sorting
 |  |
