@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0237-delete-node-in-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
