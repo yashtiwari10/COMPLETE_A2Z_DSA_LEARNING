@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
