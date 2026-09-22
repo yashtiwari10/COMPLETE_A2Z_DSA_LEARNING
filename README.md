@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0088-merge-sorted-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0509-fibonacci-number) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
