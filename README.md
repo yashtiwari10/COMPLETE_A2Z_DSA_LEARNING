@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0162-find-peak-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/2965-find-missing-and-repeated-values) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtiwari10/COMPLETE_A2Z_DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
